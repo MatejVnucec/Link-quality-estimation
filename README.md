@@ -5,4 +5,5 @@ To get your dataset:
   2.download the colab code
   
 To use the code follow the following prosedure:
-     
+  1.You dont need what is under the tab Getting traces but it is there just in case
+  
