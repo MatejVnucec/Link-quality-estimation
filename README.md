@@ -1,11 +1,11 @@
 # Link-quality-estimation
 When i say: 
 
-  -uncut, are samples with length of 300
+  -uncut, i mean samples with length of 300
   
-  -cut, samples with the same randomized length between 50 and 200  
+  -cut, i mean samples with the same randomized length between 50 and 200  
   
-  -random, that every sample has their own length 
+  -random, i mean that every sample has their own length 
 
 To get your dataset:
 
