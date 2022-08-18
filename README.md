@@ -24,3 +24,5 @@ To use the code follow the following procedure:
   4.In the same tab you have the code to upload the initial_dataset, just choose the right path on your computer (I used my drive).
   
   5.In the "Getting your dataset" tab again choose the method you picked before. Run both lines of code to get dataset and upload that dataset.
+  
+  If you dont have the time for making your own I also uploaded datasets I created 
