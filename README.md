@@ -17,12 +17,10 @@ To use the code follow the following procedure:
 
   1.You dont need what is under the tab "Getting traces" but it is there just in case if you couldnt get the initial_dataset from my github.
   
-  2.Run the full "My definitions" tab.
+  2.Run the full "Definitions" tab.
   
-  3.In the "Setting START, STOP, LENGTH ..." tab choose which method (uncut/cut/random) you are going to use.
+  3.In the "Download the initial_dataset" download the initial_dataset, just choose the right path on your computer (I used my drive).
   
-  4.In the same tab you have the code to upload the initial_dataset, just choose the right path on your computer (I used my drive).
-  
-  5.In the "Getting your dataset" tab again choose the method you picked before. Run both lines of code to get dataset and upload that dataset.
+  4.In the "Getting your dataset" tab choose the method you want to get. Run both lines of code to get dataset and upload that dataset.
   
   If you dont have the time for making your own I also uploaded datasets I created 
